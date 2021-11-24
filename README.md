@@ -1,2 +1,4 @@
 # PongGame
-Building Pong. Famous Arcade Game
+Built Pong. Famous Arcade Game
+use "u" and "d" to control the left paddle, Up and Down arrow keys to control the right paddle.
+
